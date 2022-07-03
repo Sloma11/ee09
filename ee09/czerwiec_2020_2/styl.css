@@ -1,0 +1,55 @@
+body{font-family: Garamod;}
+#l1
+{
+	float:left;
+	height: 500px;
+	width: 25%;
+	background-color:lavender;
+}
+#l2
+{
+	float:left;
+	height: 300px;
+	width: 25%;
+	background-color:lavender;
+}
+#p1
+{
+	float:right;
+	height: 150px;
+	width: 75%;
+	background-color:indigo;
+	color: white;
+	font-size: 200%;
+	text-align: center;
+}
+#p2
+{
+	float:right;
+	height: 650px;
+	width: 75%;
+	background-color:lavender;
+	font-size: 200%;
+	text-align: center;
+}
+#stopka
+{
+	clear: both;
+	background-color:indigo;
+	text-align: right;
+	color:white;
+}
+ul
+{
+	list-style-type: square;
+}
+img
+{
+	padding: 5px;
+	margin: 10px;
+}
+img:hover
+{
+	padding: 4px;
+	border: solid 1px indigo;
+}

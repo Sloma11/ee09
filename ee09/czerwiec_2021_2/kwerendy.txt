@@ -1,0 +1,5 @@
+1
+SELECT id,nazwa,opis,zdjecie FROM produkty WHERE id IN (18,22,23,25)
+2
+SELECT id,nazwa,opis,zdjecie FROM produkty WHERE Rodzaje_id = 12;
+3

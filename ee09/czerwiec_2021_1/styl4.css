@@ -1,0 +1,30 @@
+body
+{
+	font-family: Helvetica;
+}
+#baner, #stopka
+{
+	background-color: #af4448;
+	color:white;
+	text-align: center;
+	height:20px;
+	clear:both;
+}
+#lewy,#prawy
+{
+	float:left;
+	background-color: #ffa4a2;
+	height: 650px;
+	width: 50%;
+}
+h4
+{
+	margin: 0px;
+}
+#zobacz
+{
+	background-color: #af4448;
+	color:white;
+	padding: 5px;
+	margin: 10px;
+}

@@ -1,0 +1,45 @@
+body
+{
+	font-family: Verdana;
+	
+}
+#baner
+{
+	background-color: #4682b4;
+	color: white;
+	padding: 20px;
+	font-size: 120%;
+	text-align:center;
+}
+#lewy
+{
+	float: left;
+	background-color: #40e0d0;
+	width: 40%;
+	height: 500px;
+	
+}
+#prawy
+{
+	float:left;
+	float: left;
+	background-color: #40e0d0;
+	width: 60%;
+	height: 500px;
+	
+}
+#stopka
+{
+	clear: both;
+	background-color: #4682b4;
+	color: white;
+	padding: 20px;
+	font-size: 120%;
+	text-align:center;
+}
+img
+{
+	padding: 5px;
+	margin: 10px;
+	border: solid 1px #000080;
+}
